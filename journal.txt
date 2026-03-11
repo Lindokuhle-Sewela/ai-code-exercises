@@ -1,0 +1,4 @@
+From my first prompt I got to understabd that this is a this TaskManager uses command-line interface.
+TECHNOLOGIES
+---argeparse, datetime, json, uuid, enum
+though I do not know what enum is, never heard of it before
